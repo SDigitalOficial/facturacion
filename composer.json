@@ -1,0 +1,14 @@
+{
+    "name": "digitalsitesas/facturacion",
+    "description": "Módulo Facturación",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "SiteDigital",
+            "email": "desarrollo@sitedigital.com.co"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
